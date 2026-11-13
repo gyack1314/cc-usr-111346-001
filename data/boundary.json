@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "tables": {
+    "channels": {
+      "file": "boundary-channels.jsonl",
+      "sha256": "bd1dd26f0d8a1ab59026e13a5f832a7a86c17af73630f630871bd56ab29ea9a7",
+      "bytes": 150,
+      "rows": 2,
+      "fields": [
+        "id",
+        "dataset",
+        "ordinal",
+        "name",
+        "bits"
+      ]
+    },
+    "selections": {
+      "file": "boundary-selections.jsonl",
+      "sha256": "bd928019824590a8e649dbb864c66e29e71ad76433df1e55db2a21de2aa8cb0a",
+      "bytes": 55,
+      "rows": 1,
+      "fields": [
+        "id",
+        "dataset",
+        "start",
+        "stop"
+      ]
+    }
+  }
+}

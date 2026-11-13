@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "tables": {
+    "channels": {
+      "file": "normal-channels.jsonl",
+      "sha256": "bd1dd26f0d8a1ab59026e13a5f832a7a86c17af73630f630871bd56ab29ea9a7",
+      "bytes": 150,
+      "rows": 2,
+      "fields": [
+        "id",
+        "dataset",
+        "ordinal",
+        "name",
+        "bits"
+      ]
+    },
+    "selections": {
+      "file": "normal-selections.jsonl",
+      "sha256": "3002e4945c572c7736dae6e73f20c6b644833c6d155cd90e4b34c2d7de32ea6e",
+      "bytes": 55,
+      "rows": 1,
+      "fields": [
+        "id",
+        "dataset",
+        "start",
+        "stop"
+      ]
+    }
+  }
+}

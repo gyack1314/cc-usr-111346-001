@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/instrument.fcs",
+      "bytes": 264,
+      "sha256": "595a109c5748202961a55aa23d4059ca28054f205190e98d58396e532d3f086a"
+    },
+    {
+      "path": "sources/expected-events.json",
+      "bytes": 166,
+      "sha256": "e6de4ee276cf6e6f2755443f12291f91b49a03812278886fcbef125312da821c"
+    }
+  ]
+}
